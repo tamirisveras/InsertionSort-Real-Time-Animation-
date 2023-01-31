@@ -94,4 +94,4 @@ if ordenar:
             i -= 1
             grafico.empty()
             grafico = s.bar_chart(lista)
-            time.sleep(8)
+            time.sleep(2)
